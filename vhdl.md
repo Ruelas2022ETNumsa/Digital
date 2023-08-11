@@ -17,7 +17,7 @@ begin
 	process(input) begin
 		case input is
 			when
-				x"02"|
+				x"02"|// para hexadecimales
 				x"03"|
 				x"05"|
 				x"07"|
