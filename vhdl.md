@@ -6,11 +6,11 @@ $$F=\sum \lbrace 2, 3, 5, 7, 11, 13, 16, 19, 21, 22, 30 \rbrace$$
 library IEEE;
 use IEEE.std_logic_1164.all;
 
-entity prime is
+entity EJ_f_2 is
 	port(
 		input:   in std_logic_vector (7 downto 0) ;
 		F: out std_logic);
-end prime ;
+end EJ_f_2 ;
 
 architecture case_impl of prime is
 begin
