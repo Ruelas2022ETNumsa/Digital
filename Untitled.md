@@ -123,9 +123,10 @@ end SYN_case_impl;
 ```
 
 
+<p align="center">
+  <img   src="Pasted image 20230807195139.png">
+</p>
 
-
-![[Pasted image 20230807195139.png]]
 
 
 ### declaracion case?
