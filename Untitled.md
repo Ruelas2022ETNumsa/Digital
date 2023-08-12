@@ -122,11 +122,9 @@ architecture SYN_case_impl of prime is
 end SYN_case_impl;
 ```
 
-
 <p align="center">
   <img   src="P_20230807195139.png">
 </p>
-
 
 
 ### declaracion case?
